@@ -64,7 +64,7 @@ title: 首页
 
 我们精心整理并建立了一个包含 **超过 20,000 道高质量物理竞赛题目** 的题库，欢迎大家使用：
 
-🔗 **[👉 点击此处访问题库资源](https://disk.pku.edu.cn/link/AADF89FD0AF5314954A355A3C92F9EBD40)**  
+🔗 **[👉 点击此处访问题库资源](https://disk.pku.edu.cn/anyshare/zh-cn/link/AA1BDFF977FC86496EABAB79DF99D78C15?_tb=none)**  
 
 为方便大家快速查找题目，我们将题库划分为四个类别：
 
